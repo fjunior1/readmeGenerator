@@ -14,7 +14,7 @@ It is created basedon user inputs.
   * [Tests](#Tests)
   * [Questions](#Questions)
 
-## Installation
+## Installation [back to Table of contents](#Table of Contents)
 
 ## Usage
 You can run this project and it will ask you a few questions to fill the areas of the README generated.
