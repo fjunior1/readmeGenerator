@@ -91,7 +91,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Slect a license for ypur project(from the list provided):',
-        choices: ['GPL 2.0','GPL 3.0','BSD','MIT'],
+        choices: ['GPL 2.0','GPL 3.0','BSD','MIT','Apache 2.0'],
         validate: (license) => {
             if (license) {
                 return true;

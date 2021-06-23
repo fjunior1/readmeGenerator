@@ -32,15 +32,15 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
   switch (license) {
     case 'GPL 2.0':
-      return '[![License: GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)';
+      return 'https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html';
     case 'GPL 3.0':
-      return '[![License: GPL v3](https://www.gnu.org/licenses/gpl-3.0)';
+      return 'https://www.gnu.org/licenses/gpl-3.0';
     case 'BSD':
       return;
     case 'MIT':
-      return '[![License: MIT](https://opensource.org/licenses/MIT)';
+      return 'https://opensource.org/licenses/MIT';
     case 'APACHE 2.0':
-      return '[![License](https://opensource.org/licenses/Apache-2.0)';
+      return 'https://opensource.org/licenses/Apache-2.0';
     /*
     case '':
       return;
@@ -92,8 +92,7 @@ function generateMarkdown(data) {
   ${data.usage}
   
   ## License   { [back to Table of contents](#Table-of-Contents) }
-  ${renderLicenseSection(data.license)}
-  ${renderLicenseLink(data.license)}
+  ${renderLicenseSection(data.license)} ${renderLicenseLink(data.license)}
 
   ## Contributing  { [back to Table of contents](#Table-of-Contents) }
   ${data.contributing}
