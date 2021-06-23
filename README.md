@@ -20,7 +20,7 @@ It is created basedon user inputs.
 You can run this project and it will ask you a few questions to fill the areas of the README generated.
 
 ## License   { [back to Table of contents](#Table-of-Contents) }
-'[![License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)]'
+![License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
 
 ## Contributing  { [back to Table of contents](#Table-of-Contents) }
 Request access to the GITHUB repository to the owner and go on your way implementing features into this project.
@@ -39,4 +39,8 @@ GITHUB[fjunior1] https://github.com/fjunior1
 
     ### inquirer
     https://www.npmjs.com/package/inquirer
+
+    ### License badges examples
+    https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+
 
