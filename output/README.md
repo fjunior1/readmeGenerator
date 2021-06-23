@@ -32,5 +32,5 @@
   ## Questions   { [back to Table of contents](###Table-of-Contents) }
 
 
-  -- GitHub: [fjunior1](https://github.com/fjunior1)
+  -- GitHub: [fjunior1](https://github.com/fjunior1)  
   -- Email: n/a
