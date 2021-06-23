@@ -3,8 +3,8 @@
 ## Description
 This project is a professional readme generator using the 'inquirer'.
 It is created based on user inputs.
-
-
+  
+  
 ## Table of Contents
   * [Description](#Description)
   * [Installation](#Installation)
@@ -14,29 +14,30 @@ It is created based on user inputs.
   * [Tests](#Tests)
   * [Questions](#Questions)
   * [Contact](#Contact)
-
+  
+  
 ## Installation
-
-
+  
+  
 ## Usage
 You can run this project and it will ask you a few questions to fill the areas of the README generated.
-
-
+  
+  
 ## License
 ![License: GPL v3](https://img.shields.io/badge/License-GPL%20v2-blue.svg) https://www.gnu.org/licenses/gpl-3.0
-
-
+  
+  
 ## Contributing
 Request access to the GITHUB repository to the owner and go on your way implementing features into this project.
-
-
+  
+  
 ## Tests
 Basically the output of this project is a README file. you can run the application and verify that your input is added to the right place in the README generated.
-
-
+  
+  
 ## Questions
-
-
+  
+  
 ## Contact
 GITHUB: [fjunior1] https://github.com/fjunior1
 
