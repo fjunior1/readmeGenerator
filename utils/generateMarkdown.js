@@ -84,22 +84,22 @@ function generateMarkdown(data) {
   * [Tests](#Tests)
   * [Questions](#Questions)
 
-  ## Installation    { [back to Table of contents](Table-of-Contents) }
+  ## Installation
   ${data.installation}
 
-  ## Usage    { [back to Table of contents](###Table-of-Contents) } 
+  ## Usage
   ${data.usage}
 
-  ## License    { [back to Table of contents](###Table-of-Contents) }
+  ## License
   ${renderLicenseBadge(data.license)} ${renderLicenseLink(data.license)}
 
-  ## Contributing    { [back to Table of contents](###Table-of-Contents) }
+  ## Contributing
   ${data.contributing}
 
-  ## Tests    { [back to Table of contents](###Table-of-Contents) }
+  ## Tests
   ${data.tests}
 
-  ## Questions    { [back to Table of contents](###Table-of-Contents) }
+  ## Questions
   
   ## Contact 
   -- GitHub: [${data.github}](https://github.com/${data.github})  
