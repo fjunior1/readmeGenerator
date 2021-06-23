@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator-professional",
+  "version": "1.0.0",
+  "description": "This project is a professional readme generator using the 'inquirer'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franklyn Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjunior1/readmeGenerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fjunior1/readmeGenerator/issues"
+  },
+  "homepage": "https://github.com/fjunior1/readmeGenerator#readme"
+}
