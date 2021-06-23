@@ -72,10 +72,8 @@ function generateMarkdown(data) {
   
   ${renderLicenseSection(data.license)}
 
-  
   ## Description
   ${data.description}
-
 
   ## Table of Contents
   * [Description](#Description)
@@ -86,30 +84,23 @@ function generateMarkdown(data) {
   * [Tests](#Tests)
   * [Questions](#Questions)
 
-
   ## Installation    { [back to Table of contents](Table-of-Contents) }
   ${data.installation}
 
-
   ## Usage    { [back to Table of contents](###Table-of-Contents) } 
   ${data.usage}
-  
 
   ## License    { [back to Table of contents](###Table-of-Contents) }
   ${renderLicenseBadge(data.license)} ${renderLicenseLink(data.license)}
 
-
   ## Contributing    { [back to Table of contents](###Table-of-Contents) }
   ${data.contributing}
-
 
   ## Tests    { [back to Table of contents](###Table-of-Contents) }
   ${data.tests}
 
-
   ## Questions    { [back to Table of contents](###Table-of-Contents) }
-
-
+  
   ## Contact 
   -- GitHub: [${data.github}](https://github.com/${data.github})  
   -- Email: ${data.email}

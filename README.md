@@ -4,7 +4,6 @@
 This project is a professional readme generator using the 'inquirer'.
 It is created based on user inputs.
   
-  
 ## Table of Contents
   * [Description](#Description)
   * [Installation](#Installation)
@@ -15,17 +14,15 @@ It is created based on user inputs.
   * [Questions](#Questions)
   * [Contact](#Contact)
   
-  
 ## Installation
-  
+Just clone this repository to your local machine.
   
 ## Usage
-You can run this project and it will ask you a few questions to fill the areas of the README generated.
-  
+You can run this project by going to its main folder and run 'node index.js'. It will ask you a few questions to fill the areas of the README generated.
+[![Watch the video](./output/video_pic.jpg)](https://youtu.be/vt5fpE0bzSY)
   
 ## License
 ![License: GPL v3](https://img.shields.io/badge/License-GPL%20v2-blue.svg) https://www.gnu.org/licenses/gpl-3.0
-  
   
 ## Contributing
 Request access to the GITHUB repository to the owner and go on your way implementing features into this project.
