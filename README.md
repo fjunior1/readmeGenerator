@@ -22,8 +22,7 @@ You can run this project and it will ask you a few questions to fill the areas o
 ## License   { [back to Table of contents](#Table-of-Contents) }
 ![License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)(https://www.gnu.org/licenses/gpl-3.0)
 
-![License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
-![License: GPL v3](https://www.gnu.org/licenses/gpl-3.0)
+![License: GPL v3](https://img.shields.io/badge/License-GPL%20v2-blue.svg) https://www.gnu.org/licenses/gpl-3.0
 
 ## Contributing  { [back to Table of contents](#Table-of-Contents) }
 Request access to the GITHUB repository to the owner and go on your way implementing features into this project.
