@@ -14,7 +14,7 @@
   * [Tests](#Tests)
   * [Questions](#Questions)
 
-  ## Installation { [back to Table of contents](Table-of-Contents) }
+  ## Installation    [Table of contents](Table-of-Contents) 
   download the project files in a local area. in hte main folder there will be  fie index.js that is the main file of the project. 
 
   ## Usage
