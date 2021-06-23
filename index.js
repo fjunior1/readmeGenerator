@@ -90,7 +90,7 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        message: 'Slect a license for ypur project(from the list provided):',
+        message: 'Select a license for your project(from the list provided):',
         choices: ['GPL 2.0','GPL 3.0','BSD','MIT','Apache 2.0'],
         validate: (license) => {
             if (license) {
@@ -131,7 +131,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(filename, data,
+    fs.writeFile(fileName, data,
         (error) => {
             if (error) {
                 console.log(error);
@@ -144,7 +144,9 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then((answer) => {
-        const contents = generateMarkdown(answer);
+        console.log('answers: \n--------\n' + answer + "\n\n\n --------");
+
+        const contents = genMarkDown(answer);
         writeToFile("./output/README.md", contents);
     });
 }

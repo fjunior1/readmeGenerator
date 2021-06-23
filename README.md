@@ -31,7 +31,7 @@ Basically the output of this project is a README file. you can run the applicati
 
 ## Questions   { [back to Table of contents](#Table-of-Contents) }
 
-GITHUB[fjunior1] https://github.com/fjunior1
+GITHUB: [fjunior1] https://github.com/fjunior1
 
 ## References
     ### Formatting syntax basics 
